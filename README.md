@@ -1,6 +1,6 @@
 # ToDoApp
 
-A Simple doto list application
+A Simple doto list application without persistance just a sample implementation.
 
 ## Dependencies Used
 
